@@ -1,6 +1,6 @@
-# Exp No:3 Uploading temperature sensor data in Thing Speak cloud
 ## Name: Prajeeth K T
 ## Reg.No: 212222110034
+# Exp No:3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
